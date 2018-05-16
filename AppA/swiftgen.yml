@@ -1,0 +1,14 @@
+strings:
+  paths: ../AppA/Localizable.strings
+  templateName: structured-swift3
+  output: ../AppA/Generated/strings.swift
+xcassets:
+  paths:
+    - ../AppA/Images.xcassets
+    - ../Common/Assets.xcassets
+  templateName: swift3
+  output: ../AppA/Generated/assets-images.swift
+fonts:
+  paths: ../AppA/fonts
+  templatePath: ../SwiftGenTemplates/fontsSwift3.stencil
+  output: ../AppA/Generated/fonts.swift

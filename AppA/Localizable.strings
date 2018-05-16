@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  MultiTargetApp
+
+  Created by Damian Arrillaga on 5/15/18.
+  Copyright © 2018 Damian Arrillaga. All rights reserved.
+*/
+"title" = "Hi, this is App A";
+"subtitle" = "App A likes hockey";
